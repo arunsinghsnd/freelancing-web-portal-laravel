@@ -13,3 +13,12 @@ How it run:-
 4.then last import and migrate the database "php artisan migrate".
 
 5.last step to run the application is "php artisan serve".
+
+
+for Running this application
+
+User Id and Password is :
+
+Id--->arunsinghsnd@gmail.com
+
+Pass-->Arun@55.com

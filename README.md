@@ -4,8 +4,12 @@ Freelancing Web is a like professional job board that helps the employer, agent 
 
 How it run:-
 1.firstly we have to install composer using command "install composer"  in the projects.
+
 2.Then we have to do "copy .env.example .env" And give the Database name in PhyMyAdmin as My projects crerated
 "Freelancing_Web" .
+
 3.Then "php artisan key:generate" for running application.
+
 4.then last import and migrate the database "php artisan migrate".
+
 5.last step to run the application is "php artisan serve".
